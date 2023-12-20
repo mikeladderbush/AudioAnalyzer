@@ -1,0 +1,4 @@
+C:/Users/Michael Ladderbush/Desktop/C++ Projects/AudioAnalyzer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Michael Ladderbush/Desktop/C++ Projects/AudioAnalyzer/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Michael Ladderbush/Desktop/C++ Projects/AudioAnalyzer/build/src/CMakeFiles/Analyzer.dir
+C:/Users/Michael Ladderbush/Desktop/C++ Projects/AudioAnalyzer/build/lib/CMakeFiles/MyLibrary.dir
